@@ -14,7 +14,7 @@ and open the template in the editor.
         echo '123';
         echo '456';
         echo 'sss';
-        echo '11122qq';
+        echo '11122qq123';
         ?>
     </body>
 </html>
