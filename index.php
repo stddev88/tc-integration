@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo '123';
         echo '456';
+        echo 'sss';
         ?>
     </body>
 </html>
